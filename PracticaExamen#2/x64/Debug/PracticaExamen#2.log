@@ -1,0 +1,36 @@
+﻿  InterleaveLists.cpp
+C:\Users\igmml\source\repos\PracticaExamen(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/InterleaveLists.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/InterleaveLists.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/InterleaveLists.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/InterleaveLists.cpp")
+  
+  List.cpp
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/List.cpp")
+  
+  main.cpp
+C:\Users\igmml\source\repos\PracticaExamen(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/main.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\igmml\source\repos\PracticaExamen(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\igmml\source\repos\PracticaExamen(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\igmml\source\repos\PracticaExamen(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/main.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/main.cpp")
+  
+C:\Users\igmml\source\repos\PracticaExamen(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "../PracticaExamen#2/main.cpp")
+  
+  Generando código...
+  PracticaExamen#2.vcxproj -> C:\Users\igmml\source\repos\PracticaExamen#2\x64\Debug\PracticaExamen#2.exe
