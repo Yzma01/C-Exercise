@@ -1,4 +1,4 @@
-"# C++ Exercise" 
+# C++ Exercise" 
 Práctica
 
 Dada una lista de empleados donde cada nodo contiene los campos int idEmpleado, int horasTrabajadas y un puntero Empleado *Sig, escribe una función que retorne una lista con un único nodo por empleado, donde el campo horasTrabajadas contenga la suma de todas las horas trabajadas por dicho empleado.
